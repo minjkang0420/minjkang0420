@@ -79,7 +79,6 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
   - 선호 주제(음악, 음식, 문화 등) 기반 필터링
   - 접근성 점수(거리, 교통편) 반영
 
----
 
 ### 2. 작은도서관 기부 장서 재분배 최적화를 위한 통계적 샘플링 메커니즘
 - **참가**: 도서관 데이터 활용 공모전
@@ -112,25 +111,23 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 
 ---
 
-## 3. Activities
+## 📃 Activities
 - **LG Aimers 2024** 수료
 - **데이터 분석 동아리 DF** 세션 수료
 - **동국대X네이버‘데이터사이언스’ 부스트코스** 수료
 
 ---
  
-## 4. Research and Development in [AI Healthcare LAB]
-### 🔬 ARPA-H
+## 🖥️ Research and Development in [AI Healthcare LAB]
+### ARPA-H
 대규모 단일세포 RNA 시퀀싱 데이터를 분석하여, 세포 하위 집단을 식별하고 생물학적으로 의미 있는 유전자 시그니처를 도출
-
----
 
 ### model
 - **scAIDE** 모델을 활용해 약 430만 개 단일세포 프로파일을 클러스터링하고, 희귀 세포 집단 및 이질적인 세포군을 탐색
 - **MAST** (Model-based Analysis of Single-cell Transcriptomics) 모델을 적용해, MSI vs MSS 조건 간 DEG 분석을 수행
 
 ---
-## 5. Research Interests
+## 🧬 Research Interests
 **Single-cell analysis**
 
 ---
