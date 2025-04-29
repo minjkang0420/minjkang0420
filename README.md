@@ -10,8 +10,6 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 ### 📍 Contact & SNS
 [![Mail](https://img.shields.io/badge/Mail-minjkang0420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minjkang0420@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-doingleft-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doingleft)
-[![Blog](https://img.shields.io/badge/Blog-doingleft-000000?style=for-the-badge)](https://doingleft.com)
-
 
 ## 🛠 Skills
 
