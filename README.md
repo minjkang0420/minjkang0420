@@ -2,6 +2,7 @@
 
 # 🧑‍💻 Profile
 I'm Minju Kang 안녕하세요!
+
 Currently pursuing a **Bachelor's degree in Industrial & Systems Engineering** with a focus on **Data Science** at **Dongguk University**.  
 Also enrolled in a **combined Bachelor's and Master's program** in the **Department of Computer and Artificial Intelligence** at **Dongguk University**.
 
