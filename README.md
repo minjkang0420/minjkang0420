@@ -4,9 +4,10 @@ I'm Minju Kang
 안녕하세요!
 
 ### 📍 Contact & Blog
-[![Mail](https://img.shields.io/badge/Mail-minjkang0420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minjkang0420@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-doingleft-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doingleft)
-[![Blog](https://img.shields.io/badge/Blog-doingleft-000000?style=for-the-badge)](https://doingleft.com)
+[![Mail](https://img.shields.io/badge/Mail-minjkang0420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-doingleft-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+[![Blog](https://img.shields.io/badge/Blog-doingleft-000000?style=for-the-badge)]
+
 
 
 ## 🛠 Skills
