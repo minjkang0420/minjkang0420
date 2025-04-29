@@ -41,3 +41,30 @@ I'm Minju Kang
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+## 🏆 Projects
+
+### 국내 지역축제 접근성 확대를 위한 추천 시스템 개발 및 제안
+- **수상**: 2024년 한국경영컨설팅 학회 우수상  
+- 지역축제의 접근성을 높이기 위해 사용자 맞춤형 추천 시스템을 설계 및 제안. 사용자 위치, 선호도, 교통 상황 등을 고려한 알고리즘을 개발하여 지역 경제 활성화와 축제 참여율 증대에 기여.
+
+## 🏆 Awards & Projects
+
+- **Awards**
+  - **수상** 한국경영컨설팅학회 2024 춘계학술대회 우수상
+### 국내 지역축제 접근성 확대를 위한 추천 시스템 개발 및 제안
+- 지역축제의 접근성을 높이기 위해 사용자 맞춤형 추천 시스템을 설계 및 제안.
+
+  - 어드벤처디자인 경진대회 우수상
+
+- **Projects**
+  - LG Aimers 2024 수료
+  - 데이터 분석 동아리 DF 세션 수료
+  - 도서관 데이터 활용 공모전 참가
+
+## 📚 Language Skills & Certifications
+
+- **자격증**
+  - SQLD (SQL Developer) 취득 - 2024.04.05
+
