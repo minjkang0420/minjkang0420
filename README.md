@@ -121,6 +121,11 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 
 ---
 
+## 4. Research Interests
+Single-cell analysis
+
+---
+
 ## 🛠️ Certifications
 - **자격증**:
   - **SQLD (SQL Developer)** - 2024.04.05
