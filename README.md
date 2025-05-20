@@ -116,7 +116,7 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
     - scAIDE는 Autoencoder 기반의 representation learning과 iterative clustering을 결합한 딥러닝 기반 scAIDE를 활용해 약 430만 개 단일세포 프로파일을 클러스터링하고, 희귀 세포 집단 및 이질적인 세포군을 탐색
   - **언어**: Python
   - **라이브러리/모듈**: 'tensorflow','keras','scikit-learn','scipy'
-  
+    
 - **MAST** (Model-based Analysis of Single-cell Transcriptomics) 
   - 단일세포 RNA 시퀀싱(sncRNA-seq) 데이터에서 **zero-inflation**을 고려한 혼합 선형 모델을 기반으로 유전자 발현 차이를 평가하는 MAST 모델을 사용하여 MSI vs MSS 조건 간 DEG 분석을 수행
   - **언어**: R
