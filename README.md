@@ -64,7 +64,7 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 - **설명**: 사용자 위치와 선호도를 기반으로 지역 축제를 추천하는 시스템 개발
 - **사용 기술 및 도구**:
   - **언어**: Python
-  - **라이브러리/모**: `matplotlib`, `folium`
+  - **라이브러리/모듈**: `matplotlib`, `folium`
   - **데이터**:
     - 공공 데이터 (문화체육관광부, 지방자치단체 제공)
     - 사용자 설문 데이터 (지역, 선호도)
