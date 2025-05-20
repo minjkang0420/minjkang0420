@@ -50,7 +50,9 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 ## 🏆 Awards
 
 - **2024 한국경영컨설팅 학회 우수상**  
-  프로젝트: 국내 지역축제 접근성 확대를 위한 추천 시스템 개발 및 제안
+  국내 지역축제 접근성 확대를 위한 추천 시스템 개발 및 제안
+- **2025 한국산업경영시스템 학회 장려상**
+  폭염 취약지역 대상 쉼터 네트워크의 전면 재설계 및 입지 최적화
 - **어드벤처디자인 경진대회 우수상**
 
 ---
@@ -62,7 +64,7 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 - **설명**: 사용자 위치와 선호도를 기반으로 지역 축제를 추천하는 시스템 개발
 - **사용 기술 및 도구**:
   - **언어**: Python
-  - **라이브러리**: `matplotlib`, `folium`
+  - **라이브러리/모**: `matplotlib`, `folium`
   - **데이터**:
     - 공공 데이터 (문화체육관광부, 지방자치단체 제공)
     - 사용자 설문 데이터 (지역, 선호도)
@@ -76,10 +78,25 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 - **설명**: 작은도서관의 장서 재분배를 최적화하여 도서 공급 우선도를 계산
 - **사용 기술 및 도구**:
   - **언어**: Python 3.12.2
-  - **라이브러리**: `pandas`, `numpy`, `matplotlib`, `glob`, `os`, `re`, `tqdm`, `folium`
+  - **라이브러리/모듈**: `pandas`, `numpy`, `matplotlib`, `glob`, `os`, `re`, `tqdm`, `folium`
   - **데이터**:
     - 전국 작은도서관 장서/대출 데이터 (2024년 4~6월)
     - 작은도서관 메타데이터 (위치, 연락처, 운영정보)
+
+### 3. 폭염 취약지역 대상 쉼터 네트워크의 전면 재설계 및 입지 최적화
+- **참가**: 2025 한국산업경영시스템학회 제23회 대학생 프로젝트 경진대회
+- **설명**:폭염 고위험 지역에 대한 공공전용 쉼터 신규 입지 최적화 및 운영 전략 개선을 통해 실질적 재난 대응 효과를 높임
+- **사용 기술 및 도구**:
+  - **언어**: Python 3.12.2
+  - **라이브러리/모듈**: 'geopandas', 'matplotlib', 'folium','scipy','haversine','gurobipy'
+  - **데이터**:
+    - 행정안전부 무더위쉼터 현황
+    - 질병관리청 온열질환 정보
+    - 부산 중구 수요지 및 후보지 데이터셋 구축
+- **모델 및 방법론**:
+    - HVI (Heat Vulnerability Index) 기반 위험 지역 선별
+    - MCLP (Maximal Covering Location Problem) 모델을 활용한 최적 입지 선정
+
 
 ---
 
@@ -91,12 +108,19 @@ Also enrolled in a **combined Bachelor's and Master's program** in the **Departm
 ---
  
 ## 🖥️ Research and Development in [AI Healthcare LAB]
-### ARPA-H
+### ARPA-H (progressing..)
 대규모 단일세포 RNA 시퀀싱 데이터를 분석하여, 세포 하위 집단을 식별하고 생물학적으로 의미 있는 유전자 시그니처를 도출
 
 ### model
-- **scAIDE** 모델을 활용해 약 430만 개 단일세포 프로파일을 클러스터링하고, 희귀 세포 집단 및 이질적인 세포군을 탐색
-- **MAST** (Model-based Analysis of Single-cell Transcriptomics) 모델을 적용해, MSI vs MSS 조건 간 DEG 분석을 수행
+- **scAIDE**
+    - scAIDE는 Autoencoder 기반의 representation learning과 iterative clustering을 결합한 딥러닝 기반 scAIDE를 활용해 약 430만 개 단일세포 프로파일을 클러스터링하고, 희귀 세포 집단 및 이질적인 세포군을 탐색
+  - **언어**: Python
+  - **라이브러리/모듈**: 'tensorflow','keras','scikit-learn','scipy'
+  
+- **MAST** (Model-based Analysis of Single-cell Transcriptomics) 
+  - 단일세포 RNA 시퀀싱(sncRNA-seq) 데이터에서 **zero-inflation**을 고려한 혼합 선형 모델을 기반으로 유전자 발현 차이를 평가하는 MAST 모델을 사용하여 MSI vs MSS 조건 간 DEG 분석을 수행
+  - **언어**: R
+  - **라이브러리/모듈**: 'MAST'
 
 ---
 ## 🧬 Research Interests
